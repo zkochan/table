@@ -1,4 +1,4 @@
-import slice from 'slice-ansi';
+import slice from '@arcanis/slice-ansi';
 import stringWidth from 'string-width';
 
 /**

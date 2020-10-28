@@ -5,9 +5,9 @@
     "url": "http://gajus.com"
   },
   "dependencies": {
+    "@arcanis/slice-ansi": "^1.0.2",
     "ajv": "^6.12.4",
     "lodash": "^4.17.20",
-    "slice-ansi": "^4.0.0",
     "string-width": "^4.2.0"
   },
   "description": "Formats data into a string table.",
